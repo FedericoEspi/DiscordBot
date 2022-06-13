@@ -1,9 +1,0 @@
- //Para poder conectar el bot a tu discord utiliza la siguiente URL, el mismo solo tendra permisos para leer y enviar mensajes.
-
- https://discord.com/api/oauth2/authorize?client_id=984207110877364324&permissions=3072&scope=bot
-
-
- //Comandos:
-
-  !hora --> Te saluda y dice la hora actual incluidos minutos y segundos. 
-
